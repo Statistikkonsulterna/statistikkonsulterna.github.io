@@ -27,7 +27,7 @@ var toolsPage_toolset = [
     "icon": "assets/images/chart/vizabi_bubbles.svg",
     "url": ""
   },
-  /*{
+  {
     "id": "bubble_lan",
     "tool": "BubbleChart",
     "toolVariation": "Base",
@@ -40,5 +40,5 @@ var toolsPage_toolset = [
     "image": "assets/images/chart/bubble-chart.png",
     "icon": "assets/images/chart/vizabi_bubbles.svg",
     "url": ""
-  }*/
+  }
 ];
