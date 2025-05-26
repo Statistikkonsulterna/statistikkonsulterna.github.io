@@ -36,7 +36,7 @@ var toolsPage_toolset = [
     "dataSources": "tva_lan",
     "transition": "none",
     "title": "Län",
-    "hideThumbnail": false,
+    "hideThumbnail": true,
     "image": "assets/images/chart/bubble-chart.png",
     "icon": "assets/images/chart/vizabi_bubbles.svg",
     "url": ""
