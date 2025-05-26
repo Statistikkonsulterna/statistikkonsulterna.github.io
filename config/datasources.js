@@ -7,8 +7,8 @@ var toolsPage_datasources = {
     modelType: "ddfcsv",
     path: "https://raw.githubusercontent.com/amelia-bodin/ddf_countries.github.io/refs/heads/main/data/ddf_countries-main/"
   },
- /* tva_lan: {
+  tva_lan: {
     modelType: "ddfcsv",
     path: "https://raw.githubusercontent.com/amelia-bodin/ddf_lan.github.io/refs/heads/main/data/ddf_lan/"
-  }*/
+  }
 };
